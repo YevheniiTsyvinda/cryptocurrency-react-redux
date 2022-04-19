@@ -3,7 +3,7 @@ import {Button, Menu, Typography, Avatar} from 'antd'
 import {Link} from 'react-router-dom'
 import { HomeOutlined, MoneyCollectOutlined, BulbOutlined, FundOutlined, MenuOutlined } from '@ant-design/icons'
 
-import Binance_logo from '../images'
+import Binance_logo from '../images/Binance_logo.png'
 import MenuItem from 'antd/lib/menu/MenuItem'
 
 const Navbar = () => {
