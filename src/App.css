@@ -58,6 +58,12 @@ a:hover{
 .logo a{
    color: white;
 }
+
+.logobinance > img {
+    max-width: 64px;
+    max-height: 64px;
+}
+
 .menu-control-container{
     display: none !important;
     position: absolute !important;
